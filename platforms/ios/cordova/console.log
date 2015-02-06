@@ -1,0 +1,110 @@
+2015-02-05 17:30:41.662 redbuttonc[59757:6352427] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Data/Application/D0F84547-7377-481C-A0B6-39B43A8D0607/Library/Cookies/Cookies.binarycookies
+2015-02-05 17:30:41.753 redbuttonc[59757:6352427] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 17:30:41.753 redbuttonc[59757:6352427] Multi-tasking -> Device: YES, App: YES
+2015-02-05 17:30:41.754 redbuttonc[59757:6352427] Unlimited access to network resources
+2015-02-05 17:30:41.757 redbuttonc[59757:6352427] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 17:30:42.015 redbuttonc[59757:6352427] [CDVTimer][file] 20.748019ms
+2015-02-05 17:30:42.015 redbuttonc[59757:6352427] [CDVTimer][TotalPluginStartup] 20.998955ms
+2015-02-05 17:30:42.197 redbuttonc[59757:6352427] Resetting plugins due to page load.
+2015-02-05 17:30:42.237 redbuttonc[59757:6352427] Finished load of: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Bundle/Application/7033AA93-733C-4356-8603-8989CE9821B4/redbuttonc.app/www/index.html
+2015-02-05 17:35:21.789 redButtonC[60006:6382882] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Data/Application/543354AD-171C-4941-8EBD-06732E9D8171/Library/Cookies/Cookies.binarycookies
+2015-02-05 17:35:21.898 redButtonC[60006:6382882] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 17:35:21.898 redButtonC[60006:6382882] Multi-tasking -> Device: YES, App: YES
+2015-02-05 17:35:21.899 redButtonC[60006:6382882] Unlimited access to network resources
+2015-02-05 17:35:21.902 redButtonC[60006:6382882] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 17:35:22.110 redButtonC[60006:6382882] [CDVTimer][file] 3.360033ms
+2015-02-05 17:35:22.110 redButtonC[60006:6382882] [CDVTimer][TotalPluginStartup] 3.555000ms
+2015-02-05 17:35:22.246 redButtonC[60006:6382882] Resetting plugins due to page load.
+2015-02-05 17:35:22.297 redButtonC[60006:6382882] Finished load of: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Bundle/Application/4222A706-3B43-47AE-B3C9-FE444CE027AE/redbuttonc.app/www/index.html
+2015-02-05 17:35:33.228 redButtonC[60006:6382882] in startRecording...
+2015-02-05 17:35:33.230 redButtonC[60006:6382882] have myMedia and about to myMedia.startRecord
+2015-02-05 17:35:33.516 redButtonC[60006:6382882] Started recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:33.519 redButtonC[60006:6382882] THREAD WARNING: ['Media'] took '289.121826' ms. Plugin should use a background thread.
+2015-02-05 17:35:33.526 redButtonC[60006:6382882] onStatusChange - Action is: Record  newStatus is: 2
+2015-02-05 17:35:37.587 redButtonC[60006:6382882] stop Recording - 
+2015-02-05 17:35:37.588 redButtonC[60006:6382882] Stopped recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:37.589 redButtonC[60006:6382882] Finished recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:37.592 redButtonC[60006:6382882] onStatusChange - Action is: Record  newStatus is: 4
+2015-02-05 17:35:37.592 redButtonC[60006:6382882] in onSuccess - does nothing
+2015-02-05 17:35:39.297 redButtonC[60006:6382882] playSoundFile
+2015-02-05 17:35:39.305 redButtonC[60006:6382882] Playing audio sample 'mediaFile.wav'
+2015-02-05 17:35:39.310 redButtonC[60006:6382882] THREAD WARNING: ['Media'] took '12.883789' ms. Plugin should use a background thread.
+2015-02-05 17:35:39.310 redButtonC[60006:6382882] onStatusChange - Action is: Play  newStatus is: 2
+2015-02-05 17:35:43.044 redButtonC[60006:6382882] in startRecording...
+2015-02-05 17:35:43.047 redButtonC[60006:6382882] Media with id 1de13092-1212-1ca7-37c0-2ba3c187be81 released
+2015-02-05 17:35:43.048 redButtonC[60006:6382882] startRecording - old myMedia released
+2015-02-05 17:35:43.048 redButtonC[60006:6382882] have myMedia and about to myMedia.startRecord
+2015-02-05 17:35:43.059 redButtonC[60006:6382882] Started recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:43.061 redButtonC[60006:6382882] THREAD WARNING: ['Media'] took '12.765137' ms. Plugin should use a background thread.
+2015-02-05 17:35:43.064 redButtonC[60006:6382882] onStatusChange - Action is: Record  newStatus is: 2
+2015-02-05 17:35:46.530 redButtonC[60006:6382882] stop Recording - 
+2015-02-05 17:35:46.531 redButtonC[60006:6382882] Stopped recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:46.532 redButtonC[60006:6382882] Finished recording audio sample 'mediaFile.wav'
+2015-02-05 17:35:46.534 redButtonC[60006:6382882] onStatusChange - Action is: Record  newStatus is: 4
+2015-02-05 17:35:46.535 redButtonC[60006:6382882] in onSuccess - does nothing
+2015-02-05 17:35:47.926 redButtonC[60006:6382882] playSoundFile
+2015-02-05 17:35:47.934 redButtonC[60006:6382882] Playing audio sample 'mediaFile.wav'
+2015-02-05 17:35:47.936 redButtonC[60006:6382882] onStatusChange - Action is: Play  newStatus is: 2
+2015-02-05 17:35:51.430 redButtonC[60006:6382882] Finished playing audio sample 'mediaFile.wav'
+2015-02-05 17:35:51.433 redButtonC[60006:6382882] onStatusChange - Action is: Play  newStatus is: 4
+2015-02-05 17:35:51.433 redButtonC[60006:6382882] in onSuccess - does nothing
+2015-02-05 17:36:15.304 redButtonC[60115:6390218] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Data/Application/865E8A39-0BA0-43A6-A8BC-3EB34E7BE240/Library/Cookies/Cookies.binarycookies
+2015-02-05 17:36:15.425 redButtonC[60115:6390218] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 17:36:15.426 redButtonC[60115:6390218] Multi-tasking -> Device: YES, App: YES
+2015-02-05 17:36:15.428 redButtonC[60115:6390218] Unlimited access to network resources
+2015-02-05 17:36:15.431 redButtonC[60115:6390218] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-05 17:36:15.671 redButtonC[60115:6390218] [CDVTimer][file] 2.434015ms
+2015-02-05 17:36:15.671 redButtonC[60115:6390218] [CDVTimer][TotalPluginStartup] 2.653003ms
+2015-02-05 17:36:15.738 redButtonC[60115:6390218] Resetting plugins due to page load.
+2015-02-05 17:36:15.792 redButtonC[60115:6390218] Finished load of: file:///Users/catherine/Library/Developer/CoreSimulator/Devices/1B5DCA81-2C82-45D0-B4E2-821917A24971/data/Containers/Bundle/Application/EAC41FDC-A227-495E-8D9E-D6C8257AC413/redbuttonc.app/www/index.html
+2015-02-05 17:36:21.272 redButtonC[60115:6390218] in startRecording...
+2015-02-05 17:36:21.273 redButtonC[60115:6390218] have myMedia and about to myMedia.startRecord
+2015-02-05 17:36:21.333 redButtonC[60115:6390218] Started recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:21.335 redButtonC[60115:6390218] THREAD WARNING: ['Media'] took '61.543945' ms. Plugin should use a background thread.
+2015-02-05 17:36:21.341 redButtonC[60115:6390218] onStatusChange - Action is: Record  newStatus is: 2
+2015-02-05 17:36:24.587 redButtonC[60115:6390218] stop Recording - 
+2015-02-05 17:36:24.587 redButtonC[60115:6390218] Stopped recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:24.595 redButtonC[60115:6390218] Finished recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:24.596 redButtonC[60115:6390218] onStatusChange - Action is: Record  newStatus is: 4
+2015-02-05 17:36:24.596 redButtonC[60115:6390218] in onSuccess - does nothing
+2015-02-05 17:36:26.365 redButtonC[60115:6390218] playSoundFile
+2015-02-05 17:36:26.374 redButtonC[60115:6390218] Playing audio sample 'mediaFile.wav'
+2015-02-05 17:36:26.377 redButtonC[60115:6390218] THREAD WARNING: ['Media'] took '12.080811' ms. Plugin should use a background thread.
+2015-02-05 17:36:26.378 redButtonC[60115:6390218] onStatusChange - Action is: Play  newStatus is: 2
+2015-02-05 17:36:29.663 redButtonC[60115:6390218] Finished playing audio sample 'mediaFile.wav'
+2015-02-05 17:36:29.664 redButtonC[60115:6390218] onStatusChange - Action is: Play  newStatus is: 4
+2015-02-05 17:36:29.665 redButtonC[60115:6390218] in onSuccess - does nothing
+2015-02-05 17:36:30.111 redButtonC[60115:6390218] in startRecording...
+2015-02-05 17:36:30.112 redButtonC[60115:6390218] Media with id f36ea529-cbd6-4a36-1a08-ad9f7dc60e8c released
+2015-02-05 17:36:30.112 redButtonC[60115:6390218] startRecording - old myMedia released
+2015-02-05 17:36:30.112 redButtonC[60115:6390218] have myMedia and about to myMedia.startRecord
+2015-02-05 17:36:30.115 redButtonC[60115:6390218] Started recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:30.116 redButtonC[60115:6390218] onStatusChange - Action is: Record  newStatus is: 2
+2015-02-05 17:36:32.023 redButtonC[60115:6390218] stop Recording - 
+2015-02-05 17:36:32.023 redButtonC[60115:6390218] Stopped recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:32.024 redButtonC[60115:6390218] Finished recording audio sample 'mediaFile.wav'
+2015-02-05 17:36:32.025 redButtonC[60115:6390218] onStatusChange - Action is: Record  newStatus is: 4
+2015-02-05 17:36:32.025 redButtonC[60115:6390218] in onSuccess - does nothing
+2015-02-05 17:36:36.626 redButtonC[60115:6390218] stopSoundFile - 
+2015-02-05 17:36:43.940 redButtonC[60115:6390230] Terminating since there is no system app.
